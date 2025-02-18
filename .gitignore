@@ -25,9 +25,6 @@ out/
 .DS_Store
 Thumbs.db
 
-# Ignore executable files
-gradlew
-gradlew.bat
 
 # Ignore generated JARs
 *.jar
