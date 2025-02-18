@@ -1,0 +1,35 @@
+# Ignore Gradle build files
+/build/
+.gradle/
+out/
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore executable files
+gradlew
+gradlew.bat
+
+# Ignore generated JARs
+*.jar
+*.war
+*.ear
