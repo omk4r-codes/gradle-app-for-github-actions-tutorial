@@ -27,6 +27,5 @@ Thumbs.db
 
 
 # Ignore generated JARs
-*.jar
 *.war
 *.ear
